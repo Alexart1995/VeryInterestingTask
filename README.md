@@ -1,5 +1,4 @@
 # VeryInterestingTask
-
 Test assignment for Unity developer practice.
 ## Main part
 - The movement of the object along a given trajectory.
