@@ -11,4 +11,4 @@ Test assignment for Unity developer practice.
 - [x] The trajectory passage time parameter. The file also stores the travel time of the path, during which the object will travel the entire path.
 - [x] The configuration file is stored on the network. The configuration file should be stored on any web resource (for example, dropbox) and when the application starts, it should be downloaded from the network.
 - [ ] Make the trajectory smooth (for example Bezier curve)
-- [] Add an algorithm that generates a random trajectory (array of points) on the plane (X,Z), despite the fact that the trajectory does not intersect itself.
+- [ ] Add an algorithm that generates a random trajectory (array of points) on the plane (X,Z), despite the fact that the trajectory does not intersect itself.
